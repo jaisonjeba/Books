@@ -1,0 +1,37 @@
+body{
+    background-color: #f1f3f6;
+}
+.card-text{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-deck{
+    margin: 10px 10px 10px 10px;
+    box-shadow: 5px 0px 5px 5px;
+    border-radius: 10px;
+}
+.img{
+    border-radius: 3px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+.card-footer{
+    display: flex;
+    justify-content: center;
+    background-color: #ffa41c;
+}
+.btn{
+    width: px;
+}
+.container{
+    border: 2px solid black;
+}
+H2{
+    background-color: #232f3e;
+    color: white;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
